@@ -172,6 +172,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/978/49978-SNAPSHOT-l.png" group-title="Indonesia Channels",TVRI Nasional
 https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
+#EXTINF:-1 tvg-id="Lokal" group-title="DAZN GROUP" tvg-logo="https://image.discovery.indazn.com/jp/v4/eu/none/1iem54v37cnzp1aak6b23tygm3_image-header_pRow_1714659470000/fill/center/center/none/80/1600/900/webp/image" ch-number="1", PGA TOUR (2024-05-18 17:00:00) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://bwang.koyeb.app/daznx/drm.php?id=1iem54v37cnzp1aak6b23tygm3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux armv7l) Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278/1.0.0
+http://bwang.koyeb.app/daznx/index.mpd?id=1iem54v37cnzp1aak6b23tygm3
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
